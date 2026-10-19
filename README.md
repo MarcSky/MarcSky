@@ -3,7 +3,7 @@
 
 ## I'm developer, tennis player, gym lover and traveller
 
-- 🤓 I'm have 5 years experience as backend developer
+- 🤓 I'm have 10+ years experience as backend developer
 - 💻 I teach peoples coding on GoLang!
 - 🚀 I'm love to write a clean code, microservices architecture, reliable, maintainable, flexible, fault-tolerant services
 - 📚 I'm love to working with mathematics, algorithms and data structures
